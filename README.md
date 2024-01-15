@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/:badgeContent?style=flat&logo=npm&logoColor=%232C92D2&label=React&labelColor=%23fff&color=%23000"/>
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=npm&logoColor=%232C92D2&label=React&labelColor=%23fff&color=%23000)
 
 # Dt Money
 
