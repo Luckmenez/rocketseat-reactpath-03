@@ -11,5 +11,16 @@
   performance tips
 </p>
 
-##Project Documentation:
+## Starting project:
 
+To run this project you need to install node v20.10^ and run the following commands:
+
+$ npm install
+
+$ npm run:server
+
+$ npm run dev
+
+<h4 align="center"> 
+	🚀 Finished
+</h4>
