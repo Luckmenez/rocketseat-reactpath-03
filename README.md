@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/React?style=flat&logo=npm&logoColor=%232C92D2&label=React&labelColor=%23fff&color=%23000)
+![Static Badge](https://img.shields.io/badge/badge-maker?style=flat&logo=react&logoColor=%232C92D2&label=React&color=%232C92D2)
+
 
 # Dt Money
 
