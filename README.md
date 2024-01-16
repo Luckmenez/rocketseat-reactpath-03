@@ -15,11 +15,19 @@
 
 To run this project you need to install node v20.10^ and run the following commands:
 
+```bash
+
+# Instale dependecies
 $ npm install
 
-$ npm run:server
+# run json server
+$ npm run dev:server
 
+# in a different terminal, run the aplication
 $ npm run dev
+
+# Server would start on port 5431
+```
 
 <h4 align="center"> 
 	🚀 Finished
